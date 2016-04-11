@@ -21,7 +21,7 @@ Open up your favourite git client (or command line interface) and clone your cop
 Command Line:
 
 ```
-git clone https://github.com/{your username}/sample-store
+$ git clone https://github.com/{username}/sample-store
 ```
 
 ## Next Steps

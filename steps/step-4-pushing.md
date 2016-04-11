@@ -27,7 +27,7 @@ So, run a push now.
 Command Line:
 
 ```
-git push
+$ git push
 ```
 
 Now what do you see?  The changes should now show up on the GitHub page!  Navigate to it to verify.
