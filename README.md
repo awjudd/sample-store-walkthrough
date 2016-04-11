@@ -19,6 +19,11 @@ This tutorial will walk you through come of the core concepts in Git in a fairly
 5. [Step 5 - Pulling](steps/step-5-pushing.md)
 6. [Step 6 - Conflict Resolution](steps/step-6-conflict-resolution.md)
 7. [Step 7 - Branching](steps/step-7-branching.md)
+8. [Step 8 - Pull Requests](steps/step-8-pull-requests.md)
+9. [Step 9 - Tagging](steps/step-9-tagging.md)
+10. [Step 10 - Checking out a Tag](steps/step-10-checking-out-a-tag.md)
 
 # To Dos
+
  - Add in screen shots from other git tools
+ - Finish steps 8 - 10

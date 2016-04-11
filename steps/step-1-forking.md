@@ -16,6 +16,7 @@ Forking the Sample Store repository.  On GitHub, navigate to [the repository](ht
 Once you click this button, you will be asked where you want to fork it into.  Select your personal account.
 
 After initiating the fork, you should be redirected to a repository which looks identical to the one you were just on.  However, it will say at the very top of the page "forked from".  This tells you two things:
+
 1. That this repository is a copy of the other work.
 2. There are possible intentions to merge back into the main project at one point in time.
 
