@@ -12,4 +12,4 @@ This tutorial will walk you through come of the core concepts in Git in a fairly
 
 # Material
 
-1. [steps/step-1-forking.md](Step 1)
+1. [Step 1 - Forking](steps/step-1-forking.md)
