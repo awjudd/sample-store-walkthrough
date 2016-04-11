@@ -1,7 +1,7 @@
 Step 1 - Forking
 ==========
 
-## What is forking?
+## Overview
 
 In essence, the idea of a fork is making a branch/copy of someone else's repository in order to make/suggest changes.  With a fork, you receive full access to the local version of the repository (normally forked into your local environment).  Normally with a fork, you intend to submit a **pull request** (we will get to these later) to get your updates back into the actual source code, or use it as a starting point for any of your projects going forward.
 

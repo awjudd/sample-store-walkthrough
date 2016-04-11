@@ -1,7 +1,7 @@
 Step 2 - Cloning
 ============
 
-## What is cloning?
+## Overview
 
 Cloning is your way of getting a copy of the repository on your local computer.  Some keywords that we just said here are "of the repository".  A Git repository is 100% self-contained.  This means that there is no absolute need to clone nor to even host it elsewhere.  However, if you do, in order to make changes from your local computer you need to **clone** it.
 

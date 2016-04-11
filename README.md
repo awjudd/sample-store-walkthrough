@@ -14,3 +14,9 @@ This tutorial will walk you through come of the core concepts in Git in a fairly
 
 1. [Step 1 - Forking](steps/step-1-forking.md)
 2. [Step 2 - Cloning](steps/step-2-cloning.md)
+3. [Step 3 - Committing](steps/step-3-commmitting.md)
+4. [Step 4 - Pushing](steps/step-4-pushing.md)
+
+
+# To Dos
+ - Add in screen shots from other git tools
