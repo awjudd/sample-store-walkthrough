@@ -16,6 +16,7 @@ This tutorial will walk you through come of the core concepts in Git in a fairly
 2. [Step 2 - Cloning](steps/step-2-cloning.md)
 3. [Step 3 - Committing](steps/step-3-commmitting.md)
 4. [Step 4 - Pushing](steps/step-4-pushing.md)
+5. [Step 5 - Pulling](steps/step-5-pushing.md)
 
 
 # To Dos
