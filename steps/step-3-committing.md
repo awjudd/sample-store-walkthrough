@@ -20,7 +20,7 @@ For now, let's just stage all of the files.
 Command Line:
 
 ```
-git add -A
+$ git add -A
 ```
 
 This command tells git to add in all changes which are in your directory (recursively) which are not being excluded by the `.gitignore` file.
