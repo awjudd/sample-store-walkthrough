@@ -4,7 +4,7 @@ Sample Store GitHub Walk Through
 # Summary
 
 Walk Through for the "Sample Pen Store" GitHub Example
-Base Code: [https://github.com/awjudd/sample-store](Available Here)
+Base Code: [Available Here](https://github.com/git-walkthrough/sample-store)
 
 This tutorial will walk you through come of the core concepts in Git in a fairly simple fashion explaining as we go.
 
@@ -13,3 +13,4 @@ This tutorial will walk you through come of the core concepts in Git in a fairly
 # Material
 
 1. [Step 1 - Forking](steps/step-1-forking.md)
+2. [Step 2 - Cloning](steps/step-2-cloning.md)
